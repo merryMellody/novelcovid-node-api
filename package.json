@@ -3,7 +3,7 @@
   "dependencies": {
     "node-fetch": "^2.6.0"
   },
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "An Api wrapper to get information about the Novel CoronaVirus.",
   "main": "index.js",
   "keywords": [
@@ -12,6 +12,12 @@
     "api"
   ],
   "author": "EliteDaMyth",
+  "contributors": [
+    {
+      "name": "Meredith Mello",
+      "url": "https://github.com/merryMellody"
+    }
+  ],
   "license": "ISC",
   "repository": {
     "type": "git",
